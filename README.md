@@ -4,7 +4,6 @@ I am a web developer. I am into designing and developing responsive websites/web
 In free time I like to animes, movies, TV series and online learning stuff to sharpen up my skills.
 ### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-waghmare)](https://github.com/pratik-waghmare)
-![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratik-waghmare&show_icons=true)
 
 ## Projects
 ### 1. Portfolio
