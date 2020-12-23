@@ -5,7 +5,7 @@ In free time I like to animes, movies, TV series and online learning stuff to sh
 
 ## Projects
 ### 1. Portfolio
-Designed logo and responsive UI using __Figma__.
+Designed logo and responsive UI using __Figma__.\n
 Implemented code in React and styled using __SCSS__.
 Worked with __GSAP__ and __Scroll Out__ plugin for animations on scroll.
 Optimized loading speed by compressing images and using SVGs.
