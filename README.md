@@ -1,5 +1,6 @@
-### Hi there 👋, I am Pratik
-
+# Hi there 👋, I am Pratik
+### I am a web developer. I am into designing and developing responsive websites/web apps and mobile applications.
+### Fan of animes, movies, TV series and online learning stuff to sharpen up my skills.
 <!--
 **pratik-waghmare/pratik-waghmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
