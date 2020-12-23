@@ -7,10 +7,10 @@ In free time I like to animes, movies, TV series and online learning stuff to sh
 - 📫 How to reach me **pratikwaghmare000@gmail.com**
 
 ### 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-waghmare&show_icons=true&locale=en&layout=compact" alt="pratik-waghmare" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-waghmare&show_icons=true&locale=en" alt="pratik-waghmare" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pratik-waghmare&show_icons=true&locale=en" alt="pratik-waghmare" /></p>
-<br/>
+
 
 ## Projects
 ### 1. Portfolio
