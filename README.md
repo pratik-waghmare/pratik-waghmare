@@ -16,23 +16,23 @@ Developed a single page application using __React__, __Express__, and __Mongo Db
 Improved loading speed by __45%__ using __Cloudinary__ to store and render images dynamically.
 
 ### 3. Sorting Visualiser
-Developed __React__ application for visualizing sorting algorithms.
+Developed __React__ application for visualizing sorting algorithms.<br/>
 Implemented various sorting algorithms like merge sort, quick sort, selection sort, insertion sort, and bubble sort.
 
 ## Skills
-Languages
-JavaScript
-C++
-Frontend
-React
-Bootstrap
-SCSS / SASS
+### Languages
+JavaScript<br/>
+C++<br/>
+### Frontend
+React<br/>
+Bootstrap<br/>
+SCSS / SASS<br/>
 HTML5 / CSS3
-Backend
-Express
+### Backend
+Express<br/>
 Mongo Db
-Design
-Figma
+### Design
+Figma<br/>
 Photoshop
 Other
 Git
