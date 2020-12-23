@@ -4,18 +4,18 @@ In free time I like to animes, movies, TV series and online learning stuff to sh
 
 ## Projects
 ### 1. Portfolio
-Designed logo and responsive UI using Figma.
-Implemented code in React and styled using SCSS.
-Worked with GSAP and Scroll Out plugin for animations on scroll.
+Designed logo and responsive UI using __Figma__.
+Implemented code in React and styled using __SCSS__.
+Worked with __GSAP__ and __Scroll Out__ plugin for animations on scroll.
 Optimized loading speed by compressing images and using SVGs.
 Tested for different devices and screen sizes.
 
 ### 2. Locus Store
-Developed a single page application using React, Express, and Mongo Db which allows users to share places and locations with other users.
-Improved loading speed by 45% using Cloudinary to store and render images dynamically.
+Developed a single page application using __React__, __Express__, and __Mongo Db__ which allows users to share places and locations with other users.
+Improved loading speed by __45%__ using __Cloudinary__ to store and render images dynamically.
 
 ### 3. Sorting Visualiser
-Developed React application for visualizing sorting algorithms.
+Developed __React__ application for visualizing sorting algorithms.
 Implemented various sorting algorithms like merge sort, quick sort, selection sort, insertion sort, and bubble sort.
 
 ## Skills
