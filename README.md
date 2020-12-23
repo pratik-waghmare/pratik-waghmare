@@ -11,6 +11,7 @@ In free time I like to animes, movies, TV series and online learning stuff to sh
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-waghmare&show_icons=true&locale=en" alt="pratik-waghmare" /></p>
 <br/>
+<br/>
 
 ## Projects
 ### 1. Portfolio
