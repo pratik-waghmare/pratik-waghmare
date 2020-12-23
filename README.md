@@ -56,7 +56,7 @@ Optimized loading speed by compressing images and using SVGs.<br/>
 Tested for different devices and screen sizes.<br/>
 
 ### 2. Locus Store
-Developed a single page application using __React__, __Express__, and __Mongo Db__ which allows users to share places and locations with other users.
+Developed a single page application using __React__, __Express__, and __Mongo Db__ which allows users to share places and locations with other users.<br/>
 Improved loading speed by __45%__ using __Cloudinary__ to store and render images dynamically.
 
 ### 3. Sorting Visualiser
