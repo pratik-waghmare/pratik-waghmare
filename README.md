@@ -1,8 +1,8 @@
 # Hi there 👋, I am Pratik
 ![coverImage](https://res.cloudinary.com/pratikwaghmare-space/image/upload/v1608700788/LinkedIn-cover-v3_nf6qid.jpg)
-I am a web developer. I am into designing and developing responsive websites/web apps and mobile applications.
+I am a web developer. I am into designing and developing responsive websites/web apps and mobile applications.<br/>
 In free time I like to animes, movies, TV series and online learning stuff to sharpen up my skills.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Projects
 ### 1. Portfolio
 Designed logo and responsive UI using __Figma__.<br/>
@@ -38,7 +38,6 @@ Photoshop<br/>
 Git<br/>
 GSAP
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pratik-waghmare/pratik-waghmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
