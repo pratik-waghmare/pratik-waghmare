@@ -33,9 +33,9 @@ Express<br/>
 Mongo Db
 ### Design
 Figma<br/>
-Photoshop
-Other
-Git
+Photoshop<br/>
+### Other
+Git<br/>
 GSAP
 <!--
 **pratik-waghmare/pratik-waghmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
