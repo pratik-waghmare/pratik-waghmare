@@ -3,8 +3,9 @@
 I am a web developer. I am into designing and developing responsive websites/web apps and mobile applications.<br/>
 In free time I like to animes, movies, TV series and online learning stuff to sharpen up my skills.
 ### 
-![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratik-waghmare&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-waghmare)](https://github.com/pratik-waghmare)
+![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratik-waghmare&show_icons=true)
+
 ## Projects
 ### 1. Portfolio
 Designed logo and responsive UI using __Figma__.<br/>
