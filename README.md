@@ -5,6 +5,10 @@ I am a web developer. I am into designing and developing responsive websites/web
 In free time I like to animes, movies, TV series and online learning stuff to sharpen up my skills.
 
 - 📫 How to reach me **pratikwaghmare000@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pratikwaghmare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pratikwaghmare" height="30" width="40" /></a>
+</p>
 
 ### 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-waghmare&show_icons=true&locale=en" alt="pratik-waghmare" /></p>
