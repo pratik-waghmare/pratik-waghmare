@@ -20,22 +20,22 @@ In free time I like to animes, movies, TV series and online learning stuff to sh
 ## Skills
 ### Languages
 <p align="left">
-  <b>C++ , JavaScript</b>
+  <em>C++ , JavaScript</em>
 </p>
 
 ### Frontend
 <p align="left">
-  <b>React , Bootstrap , Sass , HTML5 , CSS3 </b>
+  <em>React , Bootstrap , Sass , HTML5 , CSS3 </em>
 </p>
 
 ### Backend
 <p align="left">
-  <b>Node Js , Express , MongoDb </b>
+  <em>Node Js , Express , MongoDb </em>
 </p>
 
 ### Other
 <p align="left">
-  <b>Figma , Git , Heroku , Netlify </b>
+  <em>Figma , Git , Heroku , Netlify </em>
 </p>
 
 ## Projects
