@@ -11,7 +11,7 @@ I am a web developer. I am into designing and developing responsive websites/web
 
 ### 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-waghmare&show_icons=true&locale=en" alt="pratik-waghmare" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-waghmare&show_icons=true&locale=en" alt="pratik-waghmare" /></p>
 <br/>
 <br/>
