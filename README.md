@@ -1,5 +1,4 @@
 # Hi there 👋, I am Pratik
-![coverImage](https://res.cloudinary.com/pratikwaghmare-space/image/upload/v1608700788/LinkedIn-cover-v3_nf6qid.jpg)
 ###
 I am a web developer. I am into designing and developing responsive websites/web apps and mobile applications.<br/>
 
