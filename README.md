@@ -8,13 +8,6 @@ I am a web developer. I am into designing and developing responsive websites/web
 <a href="https://linkedin.com/in/pratikwaghmare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pratikwaghmare" height="30" width="40" /></a>
 </p>
 
-### 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-waghmare&show_icons=true&locale=en" alt="pratik-waghmare" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-waghmare&show_icons=true&locale=en" alt="pratik-waghmare" /></p>
-<br/>
-<br/>
-
 ## Skills
 ### Languages
 <p align="left">
@@ -52,7 +45,11 @@ Improved loading speed by __45%__ using __Cloudinary__ to store and render image
 Developed __React__ application for visualizing sorting algorithms.<br/>
 Implemented various sorting algorithms like merge sort, quick sort, selection sort, insertion sort, and bubble sort.
 
-
+### 
+<div style="display:flex;">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-waghmare&show_icons=true&locale=en" alt="pratik-waghmare" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-waghmare&show_icons=true&locale=en" alt="pratik-waghmare" />
+</div>
 <!--
 **pratik-waghmare/pratik-waghmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
