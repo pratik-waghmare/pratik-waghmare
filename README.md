@@ -43,15 +43,15 @@ Currently building at [Crio.Do](https://www.crio.do), where I’ve led major fro
 
 ### 🔹 Portfolio Site  
 Responsive personal website with animations using GSAP & ScrollOut.js. Built with React + SCSS.  
-**[GitHub Repo](#)**
+**[GitHub Repo](https://github.com/pratik-waghmare/portfolio)**
 
 ### 🔹 Locus Store  
 Single Page App using React, Express, MongoDB – dynamic image handling with Cloudinary for 45% load improvement.  
-**[GitHub Repo](#)**
+**[GitHub Repo](https://github.com/pratik-waghmare/locus-store)**
 
 ### 🔹 Sorting Visualizer  
 Visualizes algorithms like Merge Sort, Quick Sort, etc. with interactive UI built in React.  
-**[GitHub Repo](#)**
+**[GitHub Repo](https://github.com/pratik-waghmare/sorting-visualiser)**
 
 ---
 
