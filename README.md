@@ -8,23 +8,6 @@ Currently building at [Crio.Do](https://www.crio.do), where I’ve led major fro
 
 ---
 
-## 🚀 What I Do
-
-- 🛠️ **Sole frontend owner** of critical modules across Crio’s **Consumer, Mentor, and External** portals.
-- ⚡ Delivered UX-driven features like **Referral Flow**, **Sprint Board**, and **Onboarding Journeys**, driving up to **20% conversion lift**.
-- ⚙️ Obsessed with **frontend performance** — cut bundle sizes by 30%, improved TTI by 40%, achieved Lighthouse 95+ scores.
-- 🤝 Mentored 3+ devs, conducted 10+ interviews, and helped define team-wide frontend standards.
-
----
-
-## 🏆 Highlights
-
-- 🥇 Led 3 React → Next.js migrations across Crio platforms, improving SEO and reducing bounce rate.
-- 🚀 Cut TTI by 40% and bundle size by 30% via deep performance profiling and webpack tuning.
-- 🧩 Built modular micro-frontends to speed up onboarding and reduce regression bugs.
-
----
-
 ## 🔧 Tech Stack
 
 **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS  
