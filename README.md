@@ -10,7 +10,7 @@ Currently building at [Crio.Do](https://www.crio.do), where I’ve led major fro
 
 ## 🔧 Tech Stack
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS  
 **Frontend:** React, Next.js, Redux Toolkit, TailwindCSS, MUI, Chakra UI, Framer Motion  
 **Testing:** Vitest, React Testing Library, Jest, Cypress,  
 **Infra & DevOps:** Vercel, GCP, AWS Lambda, Jenkins, Serverless Framework  
